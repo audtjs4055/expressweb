@@ -19,5 +19,6 @@
   "homepage": "https://github.com/audtjs4055/expressweb#readme",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "devDependencies": {}
 }
